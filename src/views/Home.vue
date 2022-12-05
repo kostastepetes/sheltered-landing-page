@@ -75,7 +75,7 @@
           Public Key/Private Key' and then pastes User2 Public Key on the Public Key field and the random call ID into the
           RSA Encryption field and encrypts it. <br></br> 
           📤 User1 sends User2 the encrypted
-          call ID as well as his/her Public Key. <br></br>
+          call ID <br></br>
           📥 User2 ,after receiving the
           above, enters Sheltered. Types a random Username and pastes the
           encrypted ID into its respective fields and decrypts it with his/her private key <br></br>
