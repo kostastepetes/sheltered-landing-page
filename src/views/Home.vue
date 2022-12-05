@@ -70,15 +70,15 @@
           📲 User1 enters Sheltered. Types a random Username and clicks on 'Copy
           ID' with is the randomly generated call ID. 
           <br></br>
+          📤 User2 sends User1 his/her public key in order for User1 to encrypt the call ID with it <br></br>
           🔑 User1 clicks 'Generate
-          Public Key/Private Key' and then pastes the random call ID into the
+          Public Key/Private Key' and then pastes User2 Public Key on the Public Key field and the random call ID into the
           RSA Encryption field and encrypts it. <br></br> 
           📤 User1 sends User2 the encrypted
           call ID as well as his/her Public Key. <br></br>
           📥 User2 ,after receiving the
           above, enters Sheltered. Types a random Username and pastes the
-          encrypted ID as well as User1's Public Key into their respective
-          fields. <br></br>
+          encrypted ID into its respective fields and decrypts it with his/her private key <br></br>
           🔐 User2 decrypts the encrypted call ID. User2 pastes the now
           decrypted call into the 'Call ID' field and calls User1.<br></br> 
           📞 User1 sees
