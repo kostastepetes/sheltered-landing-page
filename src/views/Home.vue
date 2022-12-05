@@ -77,8 +77,8 @@
           📤 User1 sends User2 the encrypted
           call ID <br></br>
           📥 User2 ,after receiving the
-          above, enters Sheltered. Types a random Username and pastes the
-          encrypted ID into its respective fields and decrypts it with his/her private key <br></br>
+          above, types a random Username and pastes the
+          encrypted ID into its respective field and decrypts it with his/her private key <br></br>
           🔐 User2 decrypts the encrypted call ID. User2 pastes the now
           decrypted call into the 'Call ID' field and calls User1.<br></br> 
           📞 User1 sees
