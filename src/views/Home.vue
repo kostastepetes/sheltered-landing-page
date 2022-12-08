@@ -71,11 +71,10 @@
           ID' with is the randomly generated call ID. 
           <br></br>
           📤 User2 sends User1 his/her public key in order for User1 to encrypt the call ID with it <br></br>
-          🔑 User1 clicks 'Generate
-          Public Key/Private Key' and then pastes User2 Public Key on the Public Key field and the random call ID into the
-          RSA Encryption field and encrypts it. <br></br> 
+          🔑 User1 pastes User2 Public Key on the Public Key field and the random call ID into the
+          RSA ID Encryption field and encrypts it. <br></br> 
           📤 User1 sends User2 the encrypted
-          call ID <br></br>
+          call ID. The encrypted call ID was encrypted with User2 Public Key and now he/she can only decrypt it with his/her own Private Key <br></br>
           📥 User2 ,after receiving the
           above, types a random Username and pastes the
           encrypted ID into its respective field and decrypts it with his/her private key <br></br>
