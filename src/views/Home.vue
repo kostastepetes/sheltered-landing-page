@@ -68,7 +68,7 @@
           class="mt-8 text-center text-base md:text-xl lg:text-xl open-sans-regular leading-snug md:max-w-6xl md:px-16 md:py-16 border-8 border-black rounded-md background"
         >
           📲 User1 enters Sheltered. Types a random Username and clicks on 'Copy
-          ID' with is the randomly generated call ID. 
+          ID' and receives the randomly generated call ID. 
           <br></br>
           📤 User2 sends User1 his/her public key in order for User1 to encrypt the call ID with it <br></br>
           🔑 User1 pastes User2 Public Key on the Public Key field and the random call ID into the
